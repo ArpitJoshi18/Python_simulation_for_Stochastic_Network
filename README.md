@@ -16,6 +16,5 @@ Stochastic network simulated in the python script can be found here : https://gi
 	
     
   More details on max-weight can be found here : 
-  
-  
+  References used : https://github.com/ArpitJoshi18/Python_simulation_for_Stochastic_Network/blob/master/Resource_allocation%26Cross-layer-control_in_wireless-networks.pdf
 
