@@ -15,6 +15,9 @@ Stochastic network simulated in the python script can be found here : https://gi
   Max-weight & backpressure algorithm helps determining what link should be activated first and which goes next. It is done by several techniques. Max-weight checks the maximum weight/queue at any node and gives out results accordingly. Backpressure algorithm checks the difference between two nodes (link) to determine which link should be activated. Python code executed in this project executes these algorithm on the stochastic network. 
 	
     
-  More details on max-weight can be found here : 
+  More details on max-weight can be found here : https://github.com/ArpitJoshi18/Python_simulation_for_Stochastic_Network/blob/master/Max-weight.pdf
+  
+  Mmore details on Back-pressure algorithms can be found here : https://github.com/ArpitJoshi18/Python_simulation_for_Stochastic_Network/blob/master/backpressure.pdf
+  
   References used : https://github.com/ArpitJoshi18/Python_simulation_for_Stochastic_Network/blob/master/Resource_allocation%26Cross-layer-control_in_wireless-networks.pdf
 
